@@ -1,6 +1,6 @@
 {
   "name": "rss-task",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Basic Pack: HTML, CSS, SCSS, JS, Img, Fonts + Es Lint, Prettier",
   "main": "index.js",
   "scripts": {
