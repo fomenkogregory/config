@@ -1,7 +1,7 @@
 {
   "name": "rss-task",
   "version": "3.0.0",
-  "description": "Basic Pack: HTML, CSS, SCSS, JS, Img, Fonts + Es Lint, Prettier",
+  "description": "Advanced Pack: HTML, CSS, SCSS, JS, Img (+Favicon), Fonts + Es Lint, Prettier, Babel, Jest",
   "main": "index.js",
   "scripts": {
     "build": "webpack --progress",
